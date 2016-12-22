@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Clock</string>
+    <string name="add_alarm">Add Alarm</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="reset">Reset</string>
+    <string name="lap">Lap</string>
+</resources>
